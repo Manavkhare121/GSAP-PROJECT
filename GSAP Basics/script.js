@@ -1,0 +1,20 @@
+gsap.to(".box",{
+    x:1500,
+    duration:1.5,
+    delay:1,
+    rotate:360
+})
+gsap.to(".box2",{
+    x:1500,
+    duration:1.5,
+    backgroundColor:"yellow",
+    delay:2.5,
+    rotate:360
+})
+gsap.to(".box3",{
+    x:1500,
+    duration:1.5,
+    backgroundColor:"lavender",
+    delay:4,
+    rotate:360
+})
